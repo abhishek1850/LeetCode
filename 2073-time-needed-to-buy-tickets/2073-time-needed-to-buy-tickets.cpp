@@ -16,29 +16,51 @@ public:
       //   return time;
 
 
-      int time = 0;
+      // int time = 0;
       int n = tickets.size();
-      for(int i = 0 ;i<n;i++){
-        if(i<k){
-          if(tickets[i]<=tickets[k]){
-            time+=tickets[i];
-          }
-          else{
-            time+=tickets[k];
-          }
-        }
+      // for(int i = 0 ;i<n;i++){
+      //   if(i<k){
+      //     if(tickets[i]<=tickets[k]){
+      //       time+=tickets[i];
+      //     }
+      //     else{
+      //       time+=tickets[k];
+      //     }
+      //   }
 
-        else if(i==k){
-          time+=tickets[k];
+      //   else if(i==k){
+      //     time+=tickets[k];
+      //   }
+      //   else{
+      //     if(tickets[i]<tickets[k]){
+      //       time+=tickets[i];
+      //     }
+      //     else{
+      //       time+=tickets[k]-1;
+      //     }
+      //   }
+      // }
+      // return time;
+
+
+      queue<int>q;
+      int time = 0;
+      for(int i = 0;i<n;i++){
+        q.push(i);
+      }
+      while(!q.empty()){
+        int person = q.front();
+        q.pop();
+        time++;
+        tickets[person]--;
+
+        if(tickets[person]==0){
+          if(person==k){
+            return time;
+          }
         }
         else{
-
-          if(tickets[i]<tickets[k]){
-            time+=tickets[i];
-          }
-          else{
-            time+=tickets[k]-1;
-          }
+          q.push(person);
         }
       }
       return time;
