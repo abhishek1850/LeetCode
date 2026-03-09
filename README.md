@@ -19,11 +19,13 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhishek1850/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek1850/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Linked List
@@ -34,4 +36,16 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
