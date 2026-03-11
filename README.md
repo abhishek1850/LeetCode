@@ -11,6 +11,7 @@ My LeetCode DSA solutions
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/abhishek1850/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek1850/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
@@ -31,6 +32,7 @@ My LeetCode DSA solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -48,4 +50,12 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
