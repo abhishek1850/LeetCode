@@ -67,8 +67,17 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 <!---LeetCode Topics End-->
