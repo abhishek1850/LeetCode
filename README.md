@@ -68,6 +68,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/abhishek1850/LeetCode/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek1850/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/abhishek1850/LeetCode/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek1850/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
