@@ -7,6 +7,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/abhishek1850/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek1850/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
@@ -93,12 +94,15 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
