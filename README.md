@@ -102,6 +102,7 @@ My LeetCode DSA solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@ My LeetCode DSA solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ My LeetCode DSA solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishek1850/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -135,4 +138,12 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
