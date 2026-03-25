@@ -107,6 +107,7 @@ My LeetCode DSA solutions
 | [0543-diameter-of-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ My LeetCode DSA solutions
 | [0543-diameter-of-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ My LeetCode DSA solutions
 | [0543-diameter-of-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +148,7 @@ My LeetCode DSA solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhishek1850/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/abhishek1850/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
