@@ -108,6 +108,7 @@ My LeetCode DSA solutions
 | [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/abhishek1850/LeetCode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ My LeetCode DSA solutions
 | [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/abhishek1850/LeetCode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ My LeetCode DSA solutions
 | [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/abhishek1850/LeetCode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
