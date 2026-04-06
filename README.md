@@ -68,6 +68,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishek1850/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ My LeetCode DSA solutions
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/abhishek1850/LeetCode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ My LeetCode DSA solutions
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/abhishek1850/LeetCode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -165,6 +168,7 @@ My LeetCode DSA solutions
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/abhishek1850/LeetCode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -185,6 +189,7 @@ My LeetCode DSA solutions
 | [0700-search-in-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
