@@ -10,28 +10,23 @@
  * };
  */
 class Solution {
-  int findkth(TreeNode* root,int k,int &count){
+  void findkth(TreeNode* root,int k,int &count,int &ans){
     if(root==NULL){
-      return 0;
+      return ;
     }
-     
-    int left = findkth(root->left,k,count);
-    if(left!=0){
-      return left;
-    }
-    
+
+    findkth(root->left,k,count,ans);
     count++;
     if(count==k){
-      return root->val;
+      ans = root->val;
     }
-    return findkth(root->right,k,count);
-     
-
+    findkth(root->right,k,count,ans);
   }
 public:
     int kthSmallest(TreeNode* root, int k) {
-      int count = 0;
-      return findkth(root,k,count);
+      int ans,count=0;
+      findkth(root,k,count,ans);
+      return ans;
        
         
     }
