@@ -33,6 +33,7 @@ My LeetCode DSA solutions
 | [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/abhishek1850/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -96,6 +99,7 @@ My LeetCode DSA solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek1850/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -216,5 +220,14 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
