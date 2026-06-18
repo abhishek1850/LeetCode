@@ -2,34 +2,24 @@ class Solution {
 public:
     int fillCups(vector<int>& amount) {
         priority_queue<int> pq(amount.begin(), amount.end());
+        if(pq.top()==0){
+          return 0;
+        }
         int time = 0;
-        while (!pq.empty()) {
-            int first = pq.top();
-            pq.pop();
+        while (pq.size()>=2) {
+          int first = pq.top();
+          first--;
+          pq.pop();
+          int second = pq.top();
+          second--;
+          pq.pop();
 
-            if (first > 0) {
-                first--;
-                if(!pq.empty()){
-                   int second = pq.top();
-                   pq.pop();
-                     if (second > 0) {
-                        second--;
-                     }
-                     if (second > 0) {
-                      pq.push(second);
-                }
+          time++;
 
-                }
-
-                if (first > 0) {
-                    pq.push(first);
-                }
-                 time++;
-            }
-
-           
+          if(first>0) pq.push(first);
+          if(second>0) pq.push(second);  
         }
 
-        return time;
+        return pq.empty()?time:pq.top()+time;
     }
 };
