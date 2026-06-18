@@ -10,16 +10,20 @@ public:
         pq.pop();
         int x = pq.top();
         pq.pop();
-        if(x==y){
-           pq.push(0);
-          continue;
-        }
-        if(x!=y){
-          y = y-x;
+        // if(x==y){
+        //    pq.push(0);
+        //    continue;
+        // }
+        // if(x!=y){
+        //   y = y-x;
+        //   pq.push(y);
+        // }
+        y = y-x;
+        if(y!=0){
           pq.push(y);
         }
       }
-      return pq.top();
+      return pq.size()>0?pq.top():0;
         
     }
 };
