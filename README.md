@@ -38,6 +38,7 @@ My LeetCode DSA solutions
 | [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/abhishek1850/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/abhishek1850/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/abhishek1850/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@ My LeetCode DSA solutions
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek1850/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/abhishek1850/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/abhishek1850/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
