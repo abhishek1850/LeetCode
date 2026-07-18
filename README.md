@@ -35,6 +35,7 @@ My LeetCode DSA solutions
 | [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0621-task-scheduler](https://github.com/abhishek1850/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/abhishek1850/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -62,6 +63,7 @@ My LeetCode DSA solutions
 | [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek1850/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/abhishek1850/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek1850/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/abhishek1850/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -77,6 +79,7 @@ My LeetCode DSA solutions
 | [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek1850/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/abhishek1850/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +94,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0621-task-scheduler](https://github.com/abhishek1850/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/abhishek1850/LeetCode/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
@@ -103,6 +107,7 @@ My LeetCode DSA solutions
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek1850/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/abhishek1850/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/abhishek1850/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishek1850/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
@@ -119,6 +124,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek1850/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/abhishek1850/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Math
 | Problem Name | Difficulty |
