@@ -287,5 +287,6 @@ My LeetCode DSA solutions
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/abhishek1850/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhishek1850/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
