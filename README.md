@@ -46,6 +46,7 @@ My LeetCode DSA solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishek1850/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 ## Simulation
@@ -60,6 +61,7 @@ My LeetCode DSA solutions
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishek1850/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek1850/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/abhishek1850/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -255,6 +257,7 @@ My LeetCode DSA solutions
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishek1850/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek1850/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -292,4 +295,8 @@ My LeetCode DSA solutions
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/abhishek1850/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/abhishek1850/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhishek1850/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishek1850/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
