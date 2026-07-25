@@ -294,6 +294,7 @@ My LeetCode DSA solutions
 | [0182-duplicate-emails](https://github.com/abhishek1850/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/abhishek1850/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/abhishek1850/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/abhishek1850/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/abhishek1850/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/abhishek1850/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0620-not-boring-movies](https://github.com/abhishek1850/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
