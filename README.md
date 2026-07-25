@@ -296,6 +296,7 @@ My LeetCode DSA solutions
 | [0184-department-highest-salary](https://github.com/abhishek1850/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/abhishek1850/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/abhishek1850/LeetCode/tree/main/0577-employee-bonus/) | Easy |
+| [0620-not-boring-movies](https://github.com/abhishek1850/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1158-market-analysis-i](https://github.com/abhishek1850/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/abhishek1850/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhishek1850/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
