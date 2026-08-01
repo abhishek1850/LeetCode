@@ -134,6 +134,7 @@ My LeetCode DSA solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/abhishek1850/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek1850/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Tree
