@@ -31,6 +31,7 @@ My LeetCode DSA solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek1850/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek1850/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -295,6 +296,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishek1850/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/abhishek1850/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Database
 | Problem Name | Difficulty |
