@@ -32,6 +32,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek1850/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek1850/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -113,6 +114,7 @@ My LeetCode DSA solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek1850/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/abhishek1850/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -320,4 +322,8 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek1850/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
