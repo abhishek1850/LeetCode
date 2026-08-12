@@ -37,6 +37,7 @@ My LeetCode DSA solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek1850/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek1850/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/abhishek1850/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhishek1850/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek1850/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -329,4 +330,8 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/abhishek1850/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
