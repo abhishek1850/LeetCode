@@ -31,6 +31,7 @@ My LeetCode DSA solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishek1850/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhishek1850/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -134,6 +135,7 @@ My LeetCode DSA solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishek1850/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0257-binary-tree-paths](https://github.com/abhishek1850/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek1850/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -352,4 +354,8 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhishek1850/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishek1850/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
