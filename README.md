@@ -33,6 +33,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishek1850/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0049-group-anagrams](https://github.com/abhishek1850/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhishek1850/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -91,6 +92,7 @@ My LeetCode DSA solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/abhishek1850/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhishek1850/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhishek1850/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -121,6 +123,7 @@ My LeetCode DSA solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/abhishek1850/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek1850/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/abhishek1850/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -136,6 +139,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishek1850/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/abhishek1850/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0257-binary-tree-paths](https://github.com/abhishek1850/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek1850/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhishek1850/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
