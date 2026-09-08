@@ -52,6 +52,7 @@ My LeetCode DSA solutions
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/abhishek1850/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/abhishek1850/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/abhishek1850/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishek1850/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/abhishek1850/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -121,6 +122,7 @@ My LeetCode DSA solutions
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/abhishek1850/LeetCode/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek1850/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/abhishek1850/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishek1850/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -270,6 +272,7 @@ My LeetCode DSA solutions
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/abhishek1850/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/abhishek1850/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
