@@ -35,6 +35,7 @@ My LeetCode DSA solutions
 | [0014-longest-common-prefix](https://github.com/abhishek1850/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/abhishek1850/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/abhishek1850/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/abhishek1850/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -290,6 +291,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/abhishek1850/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0257-binary-tree-paths](https://github.com/abhishek1850/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
