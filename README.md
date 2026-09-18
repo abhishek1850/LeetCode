@@ -36,6 +36,7 @@ My LeetCode DSA solutions
 | [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/abhishek1850/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/abhishek1850/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/abhishek1850/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/abhishek1850/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -292,6 +293,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/abhishek1850/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/abhishek1850/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/abhishek1850/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
