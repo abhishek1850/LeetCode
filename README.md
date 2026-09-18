@@ -34,6 +34,7 @@ My LeetCode DSA solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek1850/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/abhishek1850/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/abhishek1850/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/abhishek1850/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/abhishek1850/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -96,6 +97,7 @@ My LeetCode DSA solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/abhishek1850/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhishek1850/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -287,6 +289,7 @@ My LeetCode DSA solutions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0257-binary-tree-paths](https://github.com/abhishek1850/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -346,6 +349,7 @@ My LeetCode DSA solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/abhishek1850/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek1850/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Quicksort
@@ -373,4 +377,12 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishek1850/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
