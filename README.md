@@ -60,6 +60,7 @@ My LeetCode DSA solutions
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/abhishek1850/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/abhishek1850/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/abhishek1850/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhishek1850/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/abhishek1850/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/abhishek1850/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +225,7 @@ My LeetCode DSA solutions
 | [1325-delete-leaves-with-a-given-value](https://github.com/abhishek1850/LeetCode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishek1850/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/abhishek1850/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@ My LeetCode DSA solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhishek1850/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/abhishek1850/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/abhishek1850/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +363,7 @@ My LeetCode DSA solutions
 | [0037-sudoku-solver](https://github.com/abhishek1850/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/abhishek1850/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek1850/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/abhishek1850/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
