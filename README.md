@@ -67,6 +67,7 @@ My LeetCode DSA solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishek1850/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/abhishek1850/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhishek1850/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhishek1850/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@ My LeetCode DSA solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishek1850/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/abhishek1850/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhishek1850/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhishek1850/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/abhishek1850/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/abhishek1850/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
