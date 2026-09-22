@@ -66,6 +66,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishek1850/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/abhishek1850/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0061-rotate-list](https://github.com/abhishek1850/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/abhishek1850/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhishek1850/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/abhishek1850/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
@@ -340,6 +341,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishek1850/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/abhishek1850/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/abhishek1850/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/abhishek1850/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/abhishek1850/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Database
